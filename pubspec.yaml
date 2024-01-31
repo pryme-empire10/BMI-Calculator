@@ -1,0 +1,69 @@
+name: bmicalculator
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  font_awesome_flutter: ^10.6.0
+  provider: ^6.1.1
+  
+  flutter:
+    sdk: flutter
+  device_preview: ^1.1.0
+  
+
+
+dev_dependencies:
+
+  
+  
+  
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  
+  uses-material-design: true
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
